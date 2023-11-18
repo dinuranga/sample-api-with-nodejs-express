@@ -12,13 +12,13 @@ This API serves as a demonstration of basic CRUD operations, providing endpoints
 
 ## API Endpoints
 
-GET / API HomePage
-GET /items Retrieve all item.
-GET /items/:id Retrieve items by ID.
-POST /items Create new item.
-PUT /items/:id Update item by ID.
-PATCH /items/:id Parially Update item by ID.
-DELETE /items/:id Delete items by ID.
+- **GET /** API Home Page
+- **GET /items** Retrieve all items.
+- **GET /items/:id** Retrieve items by ID.
+- **POST /items** Create new item.
+- **PUT /items/:id** Update item by ID.
+- **PATCH /items/:id** Partially update item by ID.
+- **DELETE /items/:id** Delete item by ID.
 
 ## Getting Started
 
