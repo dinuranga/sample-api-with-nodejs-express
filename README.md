@@ -10,6 +10,16 @@ You can access the API [https://sample-api-nodejs-express.onrender.com](https://
 
 This API serves as a demonstration of basic CRUD operations, providing endpoints for creating, reading, updating, and deleting data. It's built using Node.js and the Express framework.
 
+## API Endpoints
+
+GET / API HomePage
+GET /items Retrieve all item.
+GET /items/:id Retrieve items by ID.
+POST /items Create new item.
+PUT /items/:id Update item by ID.
+PATCH /items/:id Parially Update item by ID.
+DELETE /items/:id Delete items by ID.
+
 ## Getting Started
 
 Follow these steps to set up and run the API locally:
